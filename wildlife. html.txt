@@ -1,0 +1,16 @@
+<! DOCTYPE html>
+<html>
+<head>The Kenya Wildlife Service (KWS) 
+<title>kenya wildlife service </title>
+<meta name="viewport" content="width"=device-width,initial scale = 1.0
+<body>
+<h1.> kenya wildlife service(KWS)<h1/>
+<PI>The Kenya Wildlife Service (KWS) was established in 1989 as a state corporation to protect and manage Kenya's wildlife and natural habitats<P1/>
+<H2>our wildlife heritage</H2>
+<p2>Kenya's wildlife heritage has evolved from pre-colonial communal stewardship to colonial exploitation, and finally to modern state and community-led conservation</p2>
+<h3>protecting our wildlife</h3>
+<p3>protecting wildlife means saving animal and plant species and keeping their natural homes safe</p3>
+<img src="home.jpg" alt="kws" width "600">
+<img src="image 2.jpg" alt="kws"width"500"
+</body>
+</html>
